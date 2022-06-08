@@ -7,3 +7,5 @@
 - client would like a privacy statement link in the footer
 - client would like a feedback page
 - client would like a services page that outline the services they provide at their company
+- in the about page client would like a sub page of Meet the Team that includes an introduction of the team.
+- client would like a covid page that outlines how they as a company commodate clients and adjust their services according to covid-19
