@@ -1,0 +1,9 @@
+# user stories
+- Client would like a website for their business that thoroughly displays what they are, what they are about, their commitments, what services they provide and how to contact them.
+- Client would like to have aboriginal styling to her website that reflects on their cultural beliefs and sense of community.
+- client would like a contact page that consumers can contact their business through a form format
+- client would like an indepth layout of their companies beliefs and goals in about us
+- client would like a navigation bar in header and footer that provides access to all linking pages of the website
+- client would like a privacy statement link in the footer
+- client would like a feedback page
+- client would like a services page that outline the services they provide at their company
